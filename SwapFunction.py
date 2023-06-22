@@ -9,5 +9,5 @@ def test_swap(a, b):
 a = 15
 b = 25
 a, b = test_swap(a, b)
-print("a=", a)
+print("a=", a, "Test")
 print("b=", b)
